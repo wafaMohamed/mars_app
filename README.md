@@ -1,16 +1,14 @@
-# space_app
+# Mars App 🌕
 
-A new Flutter project.
+🪐  `Flutter` Application 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features ✍
+Animated Mars Application using implicit and explicit widgets.
 
-A few resources to get you started if this is your first Flutter project:
+### Let's connect `Wafa Mohamed`
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafa-mo/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
