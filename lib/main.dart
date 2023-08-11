@@ -15,5 +15,5 @@ class MarsApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home:HomePage(),
     );
-  }
-}
+
+  }}
